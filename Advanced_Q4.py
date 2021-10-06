@@ -1,4 +1,4 @@
-side = int(input("7"))
+side = int(input("Input the square size:"))
 print("Square Star Pattern") 
 
 for i in range(side):
