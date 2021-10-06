@@ -16,25 +16,24 @@ print('Lian jiarong')
 print('Fu Chen Lei')
 ) 
 elif inp == '2': function2(
-a=1
-b=3
-c=4
-print(a)
-print(b)
-print(c)
-print(a+b+c)) 
+def add(a, b):
+    return a + b
+  
+num1 = int(input("First number: "))
+num2 = int(input("Second number: "))
+
+print("The sum is", add(num1, num2)
+)
 elif inp == '3': function3(
 a = 5
 print (a,a**2)
 )
  elif 
 inp == '4': function4(
-a = 1
-b = 2
-if b > a:
-  print("b is greater than a")
-elif a == b:
-  print("a and b are equal")
-else:
-  print("a is greater than b")
-  ) else: print('There is no function', inp)
+side = int(input("Input the square size:"))
+print("Square Star Pattern") 
+
+for i in range(side):
+    for i in range(side):
+        print('[', end = ']')
+    print()
