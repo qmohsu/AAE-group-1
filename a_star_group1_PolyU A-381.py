@@ -383,8 +383,8 @@ def main():
 
     # set additional consuming area
     lc_x, lc_y = [], []
-    for i in range(20,30):
-        for j in range(29,30):
+    for i in range(26,30):
+        for j in range(26,30):
             lc_x.append(i)
             lc_y.append(j)
 
