@@ -10,15 +10,6 @@
 
 #### GitHub
 
-Q1:basic
-
-Q2:advanced
-
-Q3:basic
-
-Q4:advanced
-
-Final product compiled into Group1.py(sort of)
  #### Task 1(I will edit this part and add some context)
  #### total cost
 A380: 2909.636000524682
