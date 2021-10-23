@@ -53,12 +53,12 @@ class AStarPlanner:
         self.C_T = 3
         self.Delta_T = 5
         self.C_C = 10
-        self.C_L = 5
-        self.Delta_L = 10
+        self.C_L = 0.5
+        self.Delta_L = 1
         
         self.Delta_F_A = 0.3 # additional fuel
         self.Delta_T_A = 0.4# additional time 
-        self.Delta_L_A = 50#people fucking dying onboard
+        self.Delta_L_A = -0.2#people fucking dying onboard
         
         
 
