@@ -21,7 +21,7 @@ show_animation = True
 
 class AStarPlanner:
 
-    def __init__(self, ox, oy, resolution, rr, fc_x, fc_y, tc_x, tc_y):
+    def __init__(self, ox, oy, resolution, rr, fc_x, fc_y, tc_x, tc_y, lc_x, lc_y):
         """
         Initialize grid map for a star planning
 
@@ -44,6 +44,8 @@ class AStarPlanner:
         self.fc_y = fc_y
         self.tc_x = tc_x
         self.tc_y = tc_y
+        self.lc_x = lc_x
+        self.lc_y = lc_y
 
         ############you could modify the setup here for different aircraft models (based on the lecture slide) ##########################
         self.C_F = 1
@@ -51,9 +53,12 @@ class AStarPlanner:
         self.C_T = 4
         self.Delta_T = 5
         self.C_C = 10
+        self.C_L = 0.5
+        self.Delta_L = 1
         
         self.Delta_F_A = 0.4 # additional fuel
         self.Delta_T_A = 0.5# additional time 
+        self.Delta_L_A = -0.2
         
         
 
@@ -62,6 +67,7 @@ class AStarPlanner:
         print("PolyU-A382 cost part1-> ", self.C_F * (self.Delta_F + self.Delta_F_A) )
         print("PolyU-A382 cost part2-> ", self.C_T * (self.Delta_T + self.Delta_T_A) )
         print("PolyU-A382 cost part3-> ", self.C_C )
+        print("Polyu-A382 cost part4-> ", self.C_L * self.Delta_L_A)
 
     class Node: # definition of a sinle node
         def __init__(self, x, y, cost, parent_index):
@@ -153,6 +159,11 @@ class AStarPlanner:
                         # print("fuel consuming area!!")
                         node.cost = node.cost + self.Delta_F_A * self.motion[i][2]
                     # print()
+                
+                if self.calc_grid_position(node.x, self.min_x) in self.lc_x:
+                    if self.calc_grid_position(node.y, self.min_y) in self.lc_y:
+                       
+                        node.cost = node.cost + self.Delta_L_A * self.motion[i][2]
                 
                 n_id = self.calc_grid_index(node)
 
@@ -286,8 +297,8 @@ def main():
     print(__file__ + " start the A star algorithm demo !!") # print simple notes
 
     # start and goal position
-    sx = 5  # [m]
-    sy = 10  # [m]
+    sx = 0  # [m]
+    sy = 0  # [m]
     gx = 45 # [m]
     gy = 50  # [m]
     grid_size = 1  # [m]
@@ -369,19 +380,32 @@ def main():
         for j in range(15,35):
             tc_x.append(i)
             tc_y.append(j)
+    # set additional consuming area
+
+    lc_x, lc_y = [], []
+
+    for i in range(26,30):
+
+        for j in range(26,30):
+          
+            lc_x.append(i)
+
+            lc_y.append(j)
 
     if show_animation:  # pragma: no cover
         plt.plot(ox, oy, ".k") # plot the obstacle
-        plt.plot(sx, sy, "og") # plot the start position 
-        plt.plot(gx, gy, "xb") # plot the end position
-        
+        plt.plot(sx, sy, "8b") # plot the start position 
+        plt.plot(gx, gy, "Xb") # plot the end position      
+     
+       
         plt.plot(fc_x, fc_y, "oy") # plot the fuel consuming area
         plt.plot(tc_x, tc_y, "or") # plot the time consuming area
+        plt.plot(lc_x, lc_y, "Xg")
 
         plt.grid(True) # plot the grid to the plot panel
         plt.axis("equal") # set the same resolution for x and y axis 
 
-    a_star = AStarPlanner(ox, oy, grid_size, robot_radius, fc_x, fc_y, tc_x, tc_y)
+    a_star = AStarPlanner(ox, oy, grid_size, robot_radius, fc_x, fc_y, tc_x, tc_y, lc_x, lc_y)
     rx, ry = a_star.planning(sx, sy, gx, gy)
 
     if show_animation:  # pragma: no cover
