@@ -11,7 +11,7 @@ Table of Contents
 ## Reference
 #### Group Presentation
 *video pending*
-### Background of Path Planning to Aviation Engineering
+## Background of Path Planning to Aviation Engineering
 
 ### Theory of Path Planning Algorithm
 
