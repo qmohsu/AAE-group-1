@@ -296,8 +296,8 @@ def main():
     print(__file__ + " start the A star algorithm demo !!") # print simple notes
 
     # start and goal position
-    sx = 5  # [m]
-    sy = 10  # [m]
+    sx = 0  # [m]
+    sy = 0  # [m]
     gx = 45 # [m]
     gy = 50  # [m]
     grid_size = 1  # [m]
@@ -392,8 +392,8 @@ def main():
 
     if show_animation:  # pragma: no cover
         plt.plot(ox, oy, ".k") # plot the obstacle
-        plt.plot(sx, sy, "og") # plot the start position 
-        plt.plot(gx, gy, "xb") # plot the end position
+        plt.plot(sx, sy, "8b") # plot the start position 
+        plt.plot(gx, gy, "Xb") # plot the end position
         
         plt.plot(fc_x, fc_y, "oy") # plot the fuel consuming area
         plt.plot(tc_x, tc_y, "or") # plot the time consuming area
