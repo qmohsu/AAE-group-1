@@ -1,23 +1,13 @@
 """
 
-A* grid planning
-
-author: Atsushi Sakai(@Atsushi_twi)
-        Nikos Kanargias (nkana@tee.gr)
-
-See Wikipedia article (https://en.wikipedia.org/wiki/A*_search_algorithm)
-
-This is the simple code for path planning class
+A380 grid planning
 
 """
-
-
 
 import math
 import matplotlib.pyplot as plt
 
 show_animation = True
-
 
 class AStarPlanner:
 
