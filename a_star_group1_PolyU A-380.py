@@ -286,8 +286,8 @@ def main():
     print(__file__ + " start the A star algorithm demo !!") # print simple notes
 
     # start and goal position
-    sx = 0  # [m]
-    sy = 0  # [m]
+    sx = 5  # [m]
+    sy = 10  # [m]
     gx = 45 # [m]
     gy = 50  # [m]
     grid_size = 1  # [m]
@@ -365,7 +365,7 @@ def main():
     
     # set time consuming area
     tc_x, tc_y = [], []
-    for i in range(-5,20):
+    for i in range(-5,30):
         for j in range(15,35):
             tc_x.append(i)
             tc_y.append(j)
