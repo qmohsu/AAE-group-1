@@ -1,6 +1,6 @@
 # AAE group 1
 Table of Contents
-#### Background of Path Planning to Aviation Engineering
+#### [Background of Path Planning to Aviation Engineering]
 #### Theory of Path Planning Algorithm
 #### Introduction of the Engineering Tools
 #### Task 1
@@ -11,7 +11,7 @@ Table of Contents
 #### Reference
 #### Group Presentation
 *video pending*
-### Background of Path Planning to Aviation Engineering
+### (Background of Path Planning to Aviation Engineering)
 
 ### Theory of Path Planning Algorithm
 
