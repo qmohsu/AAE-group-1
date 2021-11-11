@@ -13,6 +13,12 @@
 *video pending*
 ### Background of Path Planning to Aviation Engineering
 
+The aviation industry has encountered a considerable amount of challenges since its establishment in the 20th century, ranging from technical to theoretical. As technology advances and experiences are accumulated, more courses are charted and air transportation becomes a common practice around the globe. In order to reduce flight cost, reduce time of flight and avoid accidents, pathfinding becomes increasingly important in the aviation industry. The emergence of new coding languages allows for algorithms that are more complex than what old computers can achieve, and pathfinding algorithms are created subsequently afterwards. One such algorithm is the astar algorithm used in this project. 
+
+By using a pathfinding algorithm, an optimal solution can be quickly found using available data instead of experimenting with aircraft, which may waste additional time and resources. 
+
+
+
 ### Theory of Path Planning Algorithm
 From the standpoint of the control engineer, path planning is among the most important research topics in robotics. Suggesting path planning solves several issues in a variety of industries. It has been used to guide the robot toward a certain goal, from basic trajectory planning through the selection of an appropriate action scene. Because worldwide environemntal information may not always be available a priori, path planning cannot always be done in advance. Path planning can be extensively used in partly and unknown structured settings if an appropriate method is proposed.
 
