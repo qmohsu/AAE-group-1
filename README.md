@@ -79,6 +79,7 @@ In this project, I did part of the tasks of the python tutorial, and part of the
 [Reflective Essay - Fu, Chenlei.pdf](https://github.com/EnvironmentCommittee/AAE-group-1/files/7492204/Reflective.Essay.-.Fu.Chenlei.pdf)
 
 Lam Hiu Ying(21085211d)
+
 This is a long-term design project and everything is new to me. In this project, I am mainly responsible for task 3 and introduction of engineering tools. When working on this project, it allows me to understand the background of python and teach me how to operate python and what github is, because these two tools have  very little contact to me before the project. Fortunately, now I have learned how to use these two tools. In addition, there were a lot of difficulties when performing task 3. How to design a new cost area that can reduce the cost of the route is a difficult part for me. At this time, communication is an extremely important factor, and the group members are all helpful. I solved this problem and completed task 3 smoothly. This project has benefited me a lot.
 
 ### Reference
