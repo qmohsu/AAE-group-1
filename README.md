@@ -78,14 +78,18 @@ c. Discussion
 
 ### Reflective Essay
 
-Fu, Chenlei 
+#### Fu, Chenlei 
 
 In this project, I did part of the tasks of the python tutorial, and part of the task 2 of the final project. I have studied java in high school, but I have never used python as a programming language before. Through the tutorial questions in the course and other online tutorial materials, I have a preliminary understanding of Python, and I can write simple codes in python. By using the Github platform, I feel the convenience of integrating work content. Each person in the group is assigned a different job, so when the work results are integrated, it will cause inconvenience. Github completes this very well. It can not only create a branch for each group member, let the group members upload their work in their own branch, and then merge it into the main repository, but also record and highlight each group member’s  changes. In general, Github can make team cooperation smoother. Through the study of the path planning algorithm, I understand how to control the flight path of the aircraft in the air. By using Python code, the location of obstacles and the setting of some special areas will be set to simulate the real world. By changing different values, we can plan the flight path. For example, if we need to reach the destination in the fastest time, then we can change the time-related variables; if we want the minimum fuel consumption, we can change the fuel-related variables. In this way, the computer will find the most suitable flight path through the pre-set code. I think such a program is very useful. In real life, all the factors can be transferred to variables in the code to realize that the aircraft can cruise automatically according to the planned route. At the same time, we can also use such a program to predict the flight time, flight fuel consumption, etc. to determine the future flight route. I believe that such a program has already been applied to our actual aircraft. To a certain extent, it guarantees the safety of passengers and can also reduce the cost of airlines.
 
 [Reflective Essay - Fu, Chenlei.pdf](https://github.com/EnvironmentCommittee/AAE-group-1/files/7492204/Reflective.Essay.-.Fu.Chenlei.pdf)
 
-Lam Hiu Ying(21085211d)
+#### Lam Hiu Ying (21085211d)
 
 This is a long-term design project and everything is new to me. In this project, I am mainly responsible for task 3 and introduction of engineering tools. When working on this project, it allows me to understand the background of python and teach me how to operate python and what github is, because these two tools have  very little contact to me before the project. Fortunately, now I have learned how to use these two tools. In addition, there were a lot of difficulties when performing task 3. How to design a new cost area that can reduce the cost of the route is a difficult part for me. At this time, communication is an extremely important factor, and the group members are all helpful. I solved this problem and completed task 3 smoothly. This project has benefited me a lot.
+
+#### Leung Ho Kan (21100305d)
+
+In this project, I am mainly responsible for the theory of path planning algorithm and the readme page, as well as some parts inside task 3. This project is definitely a big challenge for me as all the things like path planning algorithm and github are new for me. Although I have learnt some python coding during the ic lesson, I think that it is not enough in handling the python coding in this project as the level of the codes are too difficult when comparing with that in ic lesson. Therefore, in oder to handle this project properly, I have learnt that asking questions is a good method to solve the problems we have faced when we are dealing with the project. My groupmates can always answer my difficulties and help me to solve the problems smoothly, so I think that collaboration and communication is a huge factor which lead a group work and project to success. This project not only advanced my academic knowledge, but also with some communication skills.
 
 ### Reference
