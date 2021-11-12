@@ -96,7 +96,9 @@ In this project, I am mainly responsible for the theory of path planning algorit
 ### Reference
 
 [1] G. Klancer, D. Matko, S. Blazic, "A control strategy for platoons of differential drive wheeled mobile robot", pp. 57-64, 2011.
-
 [2] Path Planning The result of A⋆ path planning is a sequence of points (states) that represent the feasible path that connect the start pose with the goal pose. [Online] Available: https://www.sciencedirect.com/topics/engineering/path-planning.
-
 [3] A Survey of Machine Learning Approaches to Robotic Path-Planning. [Online] Available: https://home.cs.colorado.edu/~mozer/Teaching/Computational%20Modeling%20Prelim/Otte.pdf.
+[4] Hello World. (n.d.). GitHub Docs. https://guides.github.com/activities/hello-world/
+[5] An introduction to GitHub. (2020, June 18). Digital.gov. https://digital.gov/resources/an-introduction-github/
+[6] Introduction to Python. (n.d.). W3Schools Online Web Tutorials. https://www.w3schools.com/python/python_intro.asp
+[7] Python language introduction. (2020, January 23). GeeksforGeeks. https://www.geeksforgeeks.org/python-language-introduction/
