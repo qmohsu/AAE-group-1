@@ -1,4 +1,8 @@
 # AAE group 1
+
+presentation:https://youtu.be/0hoycsU2fps
+
+
 ### Table of Contents
 - [Background of Path Planning to Aviation Engineering](https://github.com/EnvironmentCommittee/AAE-group-1#background-of-path-planning-to-aviaiotn-engineering)
 - [Theory of Path Planning Algorithm](https://github.com/EnvironmentCommittee/AAE-group-1#theory-of-path-planning-algorithm)
@@ -112,3 +116,7 @@ Other teammates in the group also encountered different challenges when tackling
 [6] Introduction to Python. (n.d.). W3Schools Online Web Tutorials. https://www.w3schools.com/python/python_intro.asp
 
 [7] Python language introduction. (2020, January 23). GeeksforGeeks. https://www.geeksforgeeks.org/python-language-introduction/
+
+[8] "BMW Car Factory ROBOTS - Fast Manufacturing", Uploaded Apr 15, 2019, available: Youtube,https://www.youtube.com/watch?v=P7fi4hP_y80 accessed: 11 Nov, 2021
+
+[9]"C++ logo.png", 1600x1600px, available: "https://www.pngwing.com/en/free-png-nwvsu", accessed: 11 Nov, 2021
