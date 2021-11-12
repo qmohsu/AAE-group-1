@@ -68,6 +68,8 @@ c. Discussion
 ### Task 3
 a. Methodology
 
+A expansion of the original framework, achieved by manuelly replacing the grid.
+
 b. Results
 ![1C584A88-EB79-4010-B969-5903F7014471_1_105_c](https://user-images.githubusercontent.com/90884702/141454245-8a3772c0-84bf-4a0a-9c80-41986cc3910a.jpeg)
 
@@ -122,3 +124,15 @@ Other teammates in the group also encountered different challenges when tackling
 [9]"C++ logo.png", 1600x1600px, available: "https://www.pngwing.com/en/free-png-nwvsu", accessed: 11 Nov, 2021
 
 [10] "Space History Photo: The Wright Brothers First Heavier-than-air Flight", 1000x524px, available: "https://www.space.com/22676-the-wright-brothers-first-heavier-than-air-flight.html", accessed: 11 Nov, 2021
+
+[11] "CATS – Climate Compatible Air Transport System", 1423x839px, available: https://www.dlr.de/lk/desktopdefault.aspx/tabid-8596/14795_read-37386/, accessed: 11 Nov, 2021
+
+[12]"Missing Aircraft Mysteries: From Malaysia MH370 To Flying Tiger Flight 739, Still No Answers", Michael Goldstein, 960x540px, available: https://www.forbes.com/sites/michaelgoldstein/2021/05/18/missing-aircraft-mysteries-from-flying-tiger-flight-739-to-malaysia-mh370-still-no-answers/?sh=7a44390362a6, accessed: 11 Nov,2011
+
+[13]"eLearning: Python for Beginners", 1920x1080px, available:https://www.gom.com/zh-cn/services/gom-training/elearning/elearning-python-for-beginners, accessed: 12 Nov, 2021
+
+[14]"TF29", Michael McCann, uploaded Jul 10, 2019, available:https://www.youtube.com/watch?v=9NmKNVbbGPk&ab_channel=MichaelMcCann-Topic, accessed: 12 Nov, 2021
+
+[15]"The New Order: Last Days of Europe Soundtrack — Burgundian Lullaby", Admiral Akbur, uploaded May 8, 2019, available: https://www.youtube.com/watch?v=ZJ26fFLNLB4&ab_channel=AdmiralAckbar, accessed: 11, Nov, 2021
+
+[16]"Frolic", Luciano Michelini, uploaded Oct 23, 2012, available: https://www.youtube.com/watch?v=6MYAGyZlBY0&ab_channel=OneBite, accessed: 12 Nov, 2021
