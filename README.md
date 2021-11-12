@@ -10,8 +10,7 @@
 - [Task 4](https://github.com/EnvironmentCommittee/AAE-group-1#task-4)
 - [Reflective Essay](https://github.com/EnvironmentCommittee/AAE-group-1#reflective-essay)
 - [Reference](https://github.com/EnvironmentCommittee/AAE-group-1#reference)
-- Group Presentation
-*video pending*
+- *Group Presentation*
 
 presentation:https://youtu.be/0hoycsU2fps
 
