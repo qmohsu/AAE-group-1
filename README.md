@@ -119,7 +119,7 @@ Other teammates in the group also encountered different challenges when tackling
 
 [7] Python language introduction. (2020, January 23). GeeksforGeeks. https://www.geeksforgeeks.org/python-language-introduction/
 
-[8] "BMW Car Factory ROBOTS - Fast Manufacturing", Uploaded Apr 15, 2019, available: Youtube,https://www.youtube.com/watch?v=P7fi4hP_y80 accessed: 11 Nov, 2021
+[8] "BMW Car Factory ROBOTS - Fast Manufacturing", GommeBlog.it: Car & Performance, Uploaded Apr 15, 2019, available: Youtube,https://www.youtube.com/watch?v=P7fi4hP_y80 accessed: 11 Nov, 2021
 
 [9]"C++ logo.png", 1600x1600px, available: "https://www.pngwing.com/en/free-png-nwvsu", accessed: 11 Nov, 2021
 
