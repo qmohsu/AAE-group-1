@@ -1,8 +1,5 @@
 # AAE group 1
 
-presentation:https://youtu.be/0hoycsU2fps
-
-
 ### Table of Contents
 - [Background of Path Planning to Aviation Engineering](https://github.com/EnvironmentCommittee/AAE-group-1#background-of-path-planning-to-aviaiotn-engineering)
 - [Theory of Path Planning Algorithm](https://github.com/EnvironmentCommittee/AAE-group-1#theory-of-path-planning-algorithm)
@@ -15,6 +12,10 @@ presentation:https://youtu.be/0hoycsU2fps
 - [Reference](https://github.com/EnvironmentCommittee/AAE-group-1#reference)
 - Group Presentation
 *video pending*
+
+presentation:https://youtu.be/0hoycsU2fps
+
+
 ### Background of Path Planning to Aviation Engineering
 
 The aviation industry has encountered a considerable amount of challenges since its establishment in the 20th century, ranging from technical to theoretical. As technology advances and experiences are accumulated, more courses are charted and air transportation becomes a common practice around the globe. In order to reduce flight cost, reduce time of flight and avoid accidents, pathfinding becomes increasingly important in the aviation industry. The emergence of new coding languages allows for algorithms that are more complex than what old computers can achieve, and pathfinding algorithms are created subsequently afterwards. One such algorithm is the astar algorithm used in this project. 
@@ -120,3 +121,5 @@ Other teammates in the group also encountered different challenges when tackling
 [8] "BMW Car Factory ROBOTS - Fast Manufacturing", Uploaded Apr 15, 2019, available: Youtube,https://www.youtube.com/watch?v=P7fi4hP_y80 accessed: 11 Nov, 2021
 
 [9]"C++ logo.png", 1600x1600px, available: "https://www.pngwing.com/en/free-png-nwvsu", accessed: 11 Nov, 2021
+
+[10] "Space History Photo: The Wright Brothers First Heavier-than-air Flight", 1000x524px, available: "https://www.space.com/22676-the-wright-brothers-first-heavier-than-air-flight.html", accessed: 11 Nov, 2021
