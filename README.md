@@ -65,7 +65,7 @@ c. Discussion
 a. Methodology
 
 b. Results
-![Figure_1](https://user-images.githubusercontent.com/90884702/141423721-39c2e75e-845f-4a7c-9dd7-87f17bbcb8a9.png)
+![1C584A88-EB79-4010-B969-5903F7014471_1_105_c](https://user-images.githubusercontent.com/90884702/141454245-8a3772c0-84bf-4a0a-9c80-41986cc3910a.jpeg)
 
 c. Discussion
 
