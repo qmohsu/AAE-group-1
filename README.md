@@ -26,7 +26,7 @@ A suitable trajectory is created as a series of operations to keep the robot mov
 
 As described by Savkin et al. [2], there are two types of path planning. The first one is path planning on a global scale. The environment is stable in this circumstance, and the global information is provided a priori in the control design. This strategy is both costly to deploy and well-studied in the published literature. Another method is local path planning, in which the path is produced using data collected from the robot's sensors while it is moving. As a result, when a robot encounters a new area, it might create a new course. This system is much more difficult to design, but it is more practical in reality.
 
-In a path planning algorithm, there are four main switch factors which should be evaluated. The first step is to optimize. This criteria assures that the chosen solution is the most efficient in terms of range, duration, price, and other factors. The second requirement is completion, which assures that the path planning algorithm delivers all potential path options. Accuracy and exactness come next. This criteria is critical in getting all states from the start to the finish line. The runtime is the final requirement. The goal of this criteria is to ensure the best-case scenario for dealing with the given challenge. Machine learning is among the most effective ways to meet the aforesaid criteria. Otte [3] provides a investigate of machine learning appliance for path planning (2015).
+In a path planning algorithm, there are four main switch factors which should be evaluated. The first step is to optimize. This criteria assures that the chosen solution is the most efficient in terms of range, duration, price, and other factors. The second requirement is completion, which assures that the path planning algorithm delivers all potential path options. Accuracy and exactness come next. This criteria is critical in getting all states from the start to the finish line. The runtime is the final requirement. The goal of this criteria is to ensure the best-case scenario for dealing with the given challenge. Machine learning is among the most effective ways to meet the aforesaid criteria. Otte [3] provides a investigate of machine learning appliance for path planning.
 
 ### Introduction of the Engineering Tools
 #### Python
@@ -95,5 +95,7 @@ In this project, I am mainly responsible for the theory of path planning algorit
 ### Reference
 
 [1] G. Klancer, D. Matko, S. Blazic, "A control strategy for platoons of differential drive wheeled mobile robot", pp. 57-64, 2011.
+
 [2] Path Planning The result of A⋆ path planning is a sequence of points (states) that represent the feasible path that connect the start pose with the goal pose. [Online] Available: https://www.sciencedirect.com/topics/engineering/path-planning.
+
 [3] A Survey of Machine Learning Approaches to Robotic Path-Planning. [Online] Available: https://home.cs.colorado.edu/~mozer/Teaching/Computational%20Modeling%20Prelim/Otte.pdf.
